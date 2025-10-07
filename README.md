@@ -2,6 +2,10 @@
 
 Aplikasi catatan sederhana dibuat dengan React + Vite. README ini menjelaskan tujuan proyek, teknologi yang digunakan, struktur folder, cara menjalankan aplikasi, kontrak kecil (inputs/outputs), edge case, dan langkah selanjutnya.
 
+
+## Akses
+https://personal-note-app-sepia.vercel.app/login
+
 ## Deskripsi singkat
 
 MyPersonal App adalah aplikasi web untuk membuat, mencari, mengarsipkan, dan melihat detail catatan. Proyek ini ditujukan sebagai latihan pembuatan aplikasi React menggunakan konteks (Context API), hooks kustom, dan struktur komponen yang modular.
