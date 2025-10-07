@@ -107,30 +107,9 @@ Proyek ini tidak menyertakan test otomatis. Disarankan menambahkan unit/integrat
   - Periksa console browser untuk error React
   - Pastikan base path bila deploy ke subpath
 
-## Kontribusi
 
-1. Fork repository
-2. Buat branch usaha/fitur: `git checkout -b feat/nama-fitur`
-3. Commit perubahan: `git commit -m "feat: jelaskan perubahan"`
-4. Push dan buat PR
 
-## Langkah selanjutnya (opsional)
 
-- Tambahkan validasi form yang lebih ketat
-- Tambahkan test otomatis (Jest + RTL)
-- Integrasi penyimpanan backend nyata (API + autentikasi JWT)
-- Tambah fitur sinkronisasi offline/online
-- Perbaiki UI/aksesibilitas
 
-## Lisensi
 
-Tentukan lisensi di repo jika perlu (misal MIT).
 
----
-
-Jika Anda mau, saya bisa:
-- Menambahkan badge `npm` / build status ke README
-- Menuliskan petunjuk deploy (Netlify/Vercel/GitHub Pages)
-- Membuat checklist tugas untuk menambahkan test dan CI
-
-Beritahu mana yang ingin ditambahkan dan saya kerjakan selanjutnya.
