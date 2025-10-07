@@ -37,7 +37,7 @@ function ArchivedNotesPage() {
 
   const onKeywordChangeHandler = (newKeyword) => {
     setKeyword(newKeyword);
-    setSearchParams({ keyword: newKeyword });
+    setSearchParams(newKeyword ? { keyword: newKeyword } : {});
   };
 
   const onDeleteHandler = (id) => {
